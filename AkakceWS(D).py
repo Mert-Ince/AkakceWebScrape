@@ -59,7 +59,7 @@ URL = ["https://www.akakce.com/anakart/en-ucuz-msi-pro-b650m-a-wi-fi-amd-am5-ddr
 today = datetime.date.today()
 yesterday = (today) - timedelta(days=1)
 email_sender = "mrtinc40@gmail.com"
-email_password = "jghafpwgbfgturjt"
+email_password = "your_password"
 email_receiver = "mrtinc15@gmail.com"
 subject = "Prices dropped for these items:"
 items = []
